@@ -1,7 +1,7 @@
 let N = Number(prompt("Inserisci un numero da 1 a 7 per avere il giorno della settimana corrispondente"));
 let giorno;
 
-function controllo(N) {
+function controllonum(N) {
     const errore = "Il numero inserito non è valido";
     let n = N;
 
